@@ -11,6 +11,6 @@ gather open source project about android
 
 ##Anroid方面的网站
 
-###1.<http://www.android-studio.org>
+###1.android studio 方面的学习内容<http://www.android-studio.org>
 ###2.<http://www.jcodecraeer.com>
-###3.<http://www.jcodecraeer.com/a/androidweekly/>
+###3.android的周报<http://www.jcodecraeer.com/a/androidweekly/>
